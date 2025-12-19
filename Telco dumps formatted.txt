@@ -1,0 +1,1050 @@
+Question 1:
+DWDM does have maximum distance capability with EDFA’s
+A: true
+B: false
+C:
+D:
+
+Correct Answer A
+
+ 
+
+Question 2:
+What is the payload bandwidth of STM-4 frame?
+A: 601,344Kbps
+B: 622,080Kbps
+C: 1,202,688Kbps
+D: 155,520Kbps
+
+Correct Answer A
+
+ 
+
+Question 3:
+What is the line rate of a STM-4 frame?
+A: 601,344Kbps
+B: 622,080Kbps
+C: 1,202,688Kbps
+D: 155,520Kbps
+
+Correct Answer B
+
+ 
+
+Question 4:
+Explain the Situation where multiplexing can be used.
+A: Situations where the transmitting media is having higher bandwidth, but the signals have lower bandwidth.
+B: Situations where the transmitting media is having lower bandwidth, but the signals have higher bandwidth.
+C: Situations where the transmitting media is having lower bandwidth and the signals have lower bandwidth.
+D: Situations where the transmitting media is having higher bandwidth and the signals have higher bandwidth.
+
+Correct Answer A
+
+ 
+
+Question 5:
+Which of the following shows the correct arrangement of networks from the smallest to the largest network? 
+A: LAN, WAN, MAN
+B: LAN, MAN, WAN
+C: WAN, LAN, MAN
+D: WAN, MAN, LAN
+
+Correct Answer B
+
+ 
+
+Question 6:
+In telecommunication, a __________ deployment is the installation and configuration of a network, where the network existed before.
+A: Greenfield
+B: Brownfield
+C: Augmented
+D: None of the above
+
+Correct Answer B
+
+ 
+
+Question 7:
+Which technology offers 10Gbps speed and symmetrical data transfer (Uplink and downlink bandwidth will be same)?
+A: RFoG
+B: HFC
+C: GPON
+D: XGS-PON
+
+Correct Answer D
+
+ 
+
+Question 8:
+What is the SDH equivalent frame format of STS-24?
+A: STM-1
+B: STM-4
+C: STM-16
+D: None of the above
+
+Correct Answer D
+
+ 
+
+Question 9:
+Broadband network architecture, which does not utilize copper cable.
+A: FTTN
+B: FTTC
+C: FTTB
+D: FTTP
+
+Correct Answer D
+
+ 
+
+Question 10:
+What are the drawbacks of mesh topology? 
+A: Installation is complex
+B: Requires more space
+C: Expensive
+D: All of the above
+
+Correct Answer D
+
+ 
+
+Question 11:
+Architecture for Passive Optical Network
+A: Point to Point
+B: One to multiple point
+C: Multiple point to multiple point
+D: Mesh architecture
+
+Correct Answer B
+
+ 
+
+Question 12:
+Head end device of GPON technology
+A: Optical splitter
+B: Splice closures
+C: ONU
+D: OLT
+
+Correct Answer D
+
+ 
+
+Question 13:
+Bandwidth of DWDM system can be augmented by addition of ________________.
+A: Optical power
+B: Fiber pairs
+C: Transmitter
+D: Lambdas
+
+Correct Answer D
+
+ 
+
+Question 14:
+In which technology fiber terminates near to the premise and extends the connection to the premise with a short distance copper cable?
+A: FTTC
+B: FTTB
+C: FTTP
+D: FTTN
+
+Correct Answer A
+
+ 
+
+Question 15:
+How many levels of TCM available in OTN?
+A: 2.0
+B: 4.0
+C: 6.0
+D: 8.0
+
+Correct Answer C
+
+ 
+
+Question 16:
+3R stands for
+A: Re-time, re-amplify, re-shape
+B: Re-frame, re-transmit, re-shape
+C: Re-time, Re-arrange, re-shape
+D: Re-frame, re-amplify, Re-assemble
+
+Correct Answer B
+
+ 
+
+Question 17:
+What is bandwidth?
+A: Maximum amount of data transmitted over an internet connection in a given amount of time.
+B: Volume of information that can be sent over a connection in a measured amount of time.
+C: Amount of data transmitted in an hour.
+D: Volume of data transmitted in a second.
+
+Correct Answer A
+
+ 
+
+Question 18:
+What is the SDH equivalent frame format of STS-48?
+A: STM-1
+B: STM-4
+C: STM-16
+D: STM-64
+
+Correct Answer C
+
+ 
+
+Question 19:
+Which testing tool is used to identify the fiber break? 
+A: Power meter
+B: OTDR
+C: SFP
+D: XFP
+
+Correct Answer B
+
+ 
+
+Question 20:
+______________ offers monitoring of all services and sites in the network.
+A: NOC
+B: GIS
+C: Network inventories
+D: All of the above
+
+Correct Answer A
+
+ 
+
+Question 21:
+Data which is not critical for access network planning and design
+A: Geographic information – Roads, rails etc
+B: Existing network infrastructure
+C: Type of buildings
+D: Customer name and contact number
+
+Correct Answer D
+
+ 
+
+Question 22:
+Which is the layer that converts Packets to Frames and Frames to Packets in the OSI model? 
+A: Physical Layer
+B: Data Link Layer
+C: Network Layer
+D: Transport Layer
+
+Correct Answer C
+
+ 
+
+Question 23:
+Protocol used for EPON
+A: ATM
+B: Ethernet over ATM/IP or TDM
+C: Ethernet
+D: None of the above
+
+Correct Answer C
+
+ 
+
+Question 24:
+What are the light sources used in optical transmission?
+A: Light-emitting diodes
+B: Laser diodes
+C: A & B
+D: None of the above
+
+Correct Answer C
+
+ 
+
+Question 25:
+Confirm the Client signals from the below options
+A: STM16
+B: GbE
+C: FC
+D: All of the above
+
+Correct Answer D
+
+ 
+
+Question 26:
+What is the basic unit of framing in synchronous digital hierarchy?
+A: STM-1
+B: STM-4
+C: STS-1
+D: OC-1
+
+Correct Answer A
+
+ 
+
+Question 27:
+In GPON network, Optical splitters are part of which area? 
+A: Transit network
+B: Distribution network
+C: Local fiber network / access network
+D: All of the above
+
+Correct Answer C
+
+ 
+
+Question 28:
+In DWDM systems, Multiplexing of optical signal takes place in _____________ domain.
+A: Frequency
+B: Time
+C: Wavelength
+D: Phase
+
+Correct Answer C
+
+ 
+
+Question 29:
+System that documents bandwidth allocation in telecommunication network
+A: PNI - Physical network inventory
+B: LNI - Logical network inventory
+C: GIS - System
+D: All of the above
+
+Correct Answer B
+
+ 
+
+Question 30:
+OTU stands for
+A: Optical Transport section
+B: Optical Transmit Unit
+C: Optical Transport Unit
+D: Optical Transmit Section
+
+Correct Answer C
+
+ 
+
+Question 31:
+Which technology replaces the coaxial part of the HFC network with fiber?
+A: XGS-PON
+B: FTTP
+C: RFoG
+D: DSL
+
+Correct Answer C
+
+ 
+
+Question 32:
+Which technology is suitable for data communication in remote locations?
+A: GPON
+B: Satellite
+C: HFC
+D: FTTN
+
+Correct Answer B
+
+ 
+
+Question 33:
+Services in HFC network are majorly carried on
+A: Optical signal
+B: RF signal
+C: Electrical signal
+D: None of the above
+
+Correct Answer B
+
+ 
+
+Question 34:
+A Data-Center network is a largest type of
+A: MAN
+B: WAN
+C: LAN
+D: None of these
+
+Correct Answer C
+
+ 
+
+Question 35:
+Which is the fastest DSL service?
+A: ADSL
+B: VDSL
+C: SDSL
+D: DSL
+
+Correct Answer B
+
+ 
+
+Question 36:
+Factor which is not a challenge for fiber rollout
+A: Less demand of fiberization
+B: Complex RoW - Right of way
+C: Improper surveys
+D: Lack of planning
+
+Correct Answer A
+
+ 
+
+Question 37:
+Define the function of TCM
+A: Transmit information between nodes
+B: Monitor the quality of the traffic
+C: Mapping between the OPUs
+D: None of the above
+
+Correct Answer B
+
+ 
+
+Question 38:
+What are the different types of Multiplexing techniques? 
+A: FDM, TDM, WDM
+B: ADM, TDM, WDM
+C: ADM, FDM, TDM
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 39:
+Which stage of the network lifecycle focuses on business rules, resource planning etc.?
+A: Initial desktop design
+B: Detailed design
+C: Strategic planning
+D: As built update
+
+Correct Answer C
+
+ 
+
+Question 40:
+What is the channel spacing used in DWDM technology?
+A: 20nm
+B: 8nm
+C: 16nm
+D: 24nm
+
+Correct Answer B
+
+ 
+
+Question 41:
+Upgrading the existing network will fall under which category of implementation?
+A: Brownfield Implementation
+B: Greenfield Implementation
+C: Both a & b
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 42:
+Modem technology that utilizes existing telephone lines for high bandwidth data.
+A: RFoG
+B: HFC
+C: FTTB
+D: DSL
+
+Correct Answer D
+
+ 
+
+Question 43:
+A digital signal is a signal that represents data as
+A: Discrete values
+B: Continuous values
+C: All of the above
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 44:
+Type of devices used as optical receivers?
+A: Laser
+B: LED
+C: Phototransistors & photo diodes
+D: Cables
+
+Correct Answer C
+
+ 
+
+Question 45:
+In GPON, attenuation of splitters depends on its ______________.
+A: Number of output ports
+B: Wavelength
+C: Optical signal power
+D: Size
+
+Correct Answer A
+
+ 
+
+Question 46:
+Which fibre optic splicing method is mostly preferred and why?
+A: Fusion Splicing because fibre splice loss is less. 
+B: Mechanical Splicing because splice loss is less.
+C: Both Fusion & Mechanical Splicing because splice loss is less.
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 47:
+SONET developed by
+A: American National Standards Institute
+B: International Telecommunication Union – Telecommunication
+C: Institute of Electrical and Electronics Engineers
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 48:
+In optical communication, spreading of light pulse phenomenon is called ___________.
+A: Chromatic Dispersion
+B: Refraction
+C: Total Internal Reflection
+D: Pulse Amplification
+
+Correct Answer A
+
+ 
+
+Question 49:
+Which are the major features of Physical network inventory?
+A: Generation of bill of materials
+B: Service provisioning
+C: Support for the design and documentation
+D: Generate network schemas
+
+
+Correct Answer A,C,D
+
+ 
+
+Question 50:
+Multiplexing technique used in HFC network
+A: Time-division multiplexing
+B: Frequency-division multiplexing
+C: Wavelength-division multiplexing
+D: Space-division multiplexing
+
+Correct Answer B
+
+ 
+
+Question 51:
+Component of GPON network, which enables point-to-multipoint network / separates a single light beam into several light beams.
+A: ONU
+B: Splice closures
+C: Optical splitter
+D: OLT
+
+Correct Answer C
+
+ 
+
+Question 52:
+What are the common modulation frequencies of optical transmitters?
+A: 850nm, 1300nm, 1550nm
+B: 3300nm, 930nm
+C: 1200nm, 1250nm
+D: None of the above
+
+
+Correct Answer A
+
+ 
+
+Question 53:
+OTN combines the benefits of
+A: SDH
+B: SONET
+C: WDM
+D: All of the above
+
+Correct Answer D
+
+ 
+
+Question 54:
+What is the purpose of a WAN?
+A: To allow computers to communicate with each other in the same area
+B: To allow computers to communicate with each other anywhere in the world
+C: All of the above
+D: None of them
+
+Correct Answer B
+
+ 
+
+Question 55:
+STM stands for
+A: Synchronous optical networking
+B: Synchronous Transport Module
+C: System Transport Module
+D: None of the above
+
+Correct Answer B
+
+ 
+
+Question 56:
+What is an advantage of a LAN?
+A: You can share peripherals like printers.
+B: It is more secure than a standalone computer.
+C: Data and information cannot be easily shared.
+D: Expensive to set up.
+
+Correct Answer A
+
+ 
+
+Question 57:
+Routing protocols and label exchange protocols exist at which plane of MPLS?
+A: Control
+B: Data
+C: Both
+D: None
+
+Correct Answer A
+
+ 
+
+Question 58:
+The extent to which lighting intensity from the source is diminished as it passes through a given length of fiber-optic cable (loss of optical power) is described as __________.
+A: Attenuation
+B: Amplification
+C: Sampling
+D: Quantization
+
+Correct Answer A
+
+ 
+
+Question 59:
+STM-1 frame is transmitted in exactly
+A: 125 μs
+B: 125 ms
+C: 125 ns
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 60:
+The layer that transmits data in the form of bit streams using electrical and mechanical systems is ___ in the OSI model. 
+A: Physical Layer
+B: Data Link Layer
+C: Network Layer
+D: Transport Layer
+
+Correct Answer A
+
+ 
+
+Question 61:
+What is the minimum sampling frequency to carry all the information contained in the analog signals?
+A: Twice the maximum frequency present in the analog signal.
+B: Thrice the maximum frequency present in the analog signal.
+C: Same as the maximum frequency present in the analog signal.
+D: Half of the maximum frequency present in the analog signal.
+
+Correct Answer A
+
+ 
+
+Question 62:
+What is the commercial name of the IEEE 802.16 standard used in wireless communication?
+A: Wi-Fi
+B: WiMax
+C: Bluetooth
+D: IrDA
+
+Correct Answer B
+
+ 
+
+Question 63:
+Multiple OChs are optically multiplexed together to form
+A: OMS
+B: OTS
+C: OPS
+D: OSC
+
+Correct Answer A
+
+ 
+
+Question 64:
+Define the payload capacity of an OTU2
+A: 2.488 Gbps
+B: 9.953 Gbps
+C: 39.813 Gbps
+D: 99.532 Gbps
+
+Correct Answer B
+
+ 
+
+Question 65:
+What is the data rate of E1?
+A: 1.455 Mbps
+B: 2.048 Mbps
+C: 2.084 Mbps
+D: 1.544 Mbps
+
+Correct Answer B
+
+ 
+
+Question 66:
+Internet is the largest type of
+A: PAN
+B: MAN
+C: LAN
+D: WAN
+
+Correct Answer D
+
+ 
+
+Question 67:
+Basic principle of data transmission in optical fiber cable 
+A: Total internal refraction
+B: Total internal reflection
+C: Refractive index
+D: None of the above
+
+Correct Answer B
+
+ 
+
+Question 68:
+In MPLS Network, the router that is closer to the source router is called ....
+A: Down Router
+B: Upstream Router
+C: Up Router
+D: Downstream Router
+
+Correct Answer B
+
+ 
+
+Question 69:
+Multimode fibres are commonly used for long distance communication?
+A: True
+B: False
+
+
+Correct Answer B
+
+ 
+
+Question 70:
+Benefits of LNI
+A: Searching and reserving network connections
+B: Data related to network utilization
+C: Network topology information
+D: Physical infrastructure details - Duct, Manhole etc;
+
+
+Correct Answer; A,B,C
+
+ 
+
+Question 71:
+Which layer lies between the session layer and the application layer? 
+
+A: Network layer
+B: Transport layer
+C: Data link layer
+D: Presentation layer
+
+Correct Answer D
+
+ 
+
+Question 72:
+Confirm the layer that exists between optical multiplexer and optical amplifier sites
+A: Optical Multiplex Section
+B: Optical Channel
+C: Optical Transport Section
+D: None of the above
+
+Correct Answer C
+
+ 
+
+Question 73:
+What is an interconnected data center?
+A: A colocation facility for speed dating
+B: An interconnected facility in your own data centers
+C: An interconnected data center is where networks converge
+D: All of the above
+
+Correct Answer C
+
+ 
+
+Question 74:
+As per hierarchy design principle, which models can be deployed in the Enterprise network?
+A: 1 Tier
+B: 2 Tier
+C: 3 Tier
+D: 4 Tier
+
+Correct Answer B,C
+
+ 
+
+Question 75:
+Which transport technology is used in SDH?
+A: Frequency division multiplexing
+B: Time division multiplexing
+C: Wavelength division multiplexing
+D: None of the above
+
+Correct Answer B
+
+ 
+
+Question 76:
+Fiber optic transmission technique where multiple optical signals are transmitted on a single fiber using different wavelengths 
+A: SDH
+B: Modulation
+C: DWDM
+D: PDH
+
+Correct Answer C
+
+ 
+
+Question 77:
+Network that connects between FAN sites and distribution hub
+A: Distribution network
+B: Access network
+C: Transit network
+D: Drop cable network
+
+Correct Answer A
+
+ 
+
+Question 78:
+In practical scenario, bandwidth of an optical link purely depends on ______________.
+A: Quality of Optical fibre
+B: Distance between start and end points
+C: Link Loss
+D: Transmit and receive equipment characteristics
+
+Correct Answer D
+
+ 
+
+Question 79:
+What is the main function of optical transmitters?
+A: Modulate electrical signal to optical signal.
+B: Modulate optical signal to electrical signal.
+C: Modulate electrical signal to RF signals.
+D: Modulate optical signal to RF signal.
+
+Correct Answer A
+
+ 
+
+Question 80:
+ArcGIS is __________ a network tool which runs on GIS (Geographic Information System) platform.
+A: Deployment
+B: Integration
+C: Monitoring
+D: Planning
+
+Correct Answer D
+
+ 
+
+Question 81:
+Which are the commonly used fibre optic testing tools? 
+A: OTDR, Optical Power Meter
+B: SFP
+C: OLT
+D: ODF
+
+Correct Answer A
+
+ 
+
+Question 82:
+SONET commonly transmits data at speeds between
+A: 155 Mbps & 2.5 Gbps
+B: 155 Mbps & 10 Gbps
+C: 1 Gbps & 10 Gbps
+D: 2.5 Gbps & 10 Gbps
+
+Correct Answer A
+
+ 
+
+Question 83:
+Fiber link budget calculation = Transceiver power budget / Tx power - - - . Identify the parameters A, B and C.
+A: Fiber loss
+B: Splice loss
+C: Patch panel and connector loss
+D: Optical distance
+E: A, B, C
+
+Correct Answer E
+
+ 
+
+Question 84:
+For long distance (approximate 80 KM) high data transmission, which among the following is the best backhaul mechanism?
+A: Fibre
+B: Satellite
+C: Microwave
+D: Copper
+
+Correct Answer A
+
+ 
+
+Question 85:
+SDH equivalent of the STS-1/OC-1 is
+A: STM-0
+B: OC-0
+C: STS-0
+D: None of the above
+
+Correct Answer A
+
+ 
+
+Question 86:
+Headend / exchange-based device in HFC network
+A: Optical node
+B: Trunk amplifier
+C: TAP
+D: CMTS
+
+Correct Answer D
+
+ 
+
+Question 87:
+Fiber numbers in an optical fiber cable can be identified by using
+A: Color codes
+B: Labeling in each fiber strands
+C: Labeling in splice closures
+D:
+
+Correct Answer A
+
+ 
+
+Question 88:
+Select the FALSE statement from the below options
+A: SMF uses laser light which usually follows a single path through the fiber
+B: SMF is used for long distance communication
+C: SMF is typically a lower cost solution
+D: SMF typically has a smaller core size
+
+Correct Answer C
+
+ 
+
+Question 89:
+Which is the layer of the OSI reference model that employs Error Detection? 
+A: Physical Layer
+B: Data Link Layer
+C: Network Layer
+D: Session Layer
+
+Correct Answer B
+
+ 
+
+Question 90:
+Maximum distance that can be supported by GPON technology
+A: 4 Km
+B: 20 Km
+C: 60 Km
+D: 100 Km
+
+Correct Answer B
+
+ 
+
+Question 91:
+G.fast protocol is associated with which technology?
+A: GPON
+B: HFC
+C: XGS-PON
+D: DSL (Digital Subscriber Line)
+
+Correct Answer D
+
+ 
+
+Question 92:
+SDH can transmit in both synchronous mode and asynchronous mode
+A: True
+B: False
+C:
+D:
+
+Correct Answer A
+
+ 
+
+
+Question 93:
+Industry sectors which depend on fiber rollout
+A: 5G services
+B: IoT services
+C: High speed internet services
+D: All of the above
+
+Correct Answer D
+
+ 
+
+Question 94:
+_________ is a terminal equipment which is used to provide signals to each of the Fibre Distribution Hubs.
+A: OLA
+B: ILA
+C: ONU
+D: OLT
+
+Correct Answer D
+
+ 
+
+Question 95:
+What is the unit of measuring attenuation?
+A: Decibels (dB)
+B: Hertz
+C: Kilohertz
+D: Lambda
+
+Correct Answer A
+
+ 
+

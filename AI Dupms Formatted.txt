@@ -1,0 +1,1003 @@
+
+
+Question 1: Which of the following is a disadvantage of generative models? 
+
+A: Limited application in image recognition
+B: training of generative models
+C: Lack of interpretability
+D: ability to handle continuous data
+
+Correct Answer C
+
+Question 2: Which of the following is NOT a common pretrained language model? (Select all the option that applies) 
+
+A: GPT
+B: BERT
+C: RNN
+D: LSTM
+
+Correct Answer C, D
+
+Question 3: What is the primary purpose of a language model in natural language processing? 
+
+A: To generate creative and imaginative text
+B: To analyze and understand the sentiment of a text
+C: To predict and find patterns in natural language
+D: To perform automated translation between different languages
+
+Correct Answer C
+
+Question 4: What is the best way for prompt engineering to lessen bias in language models? 
+
+A: By adding bias to the training data
+B: By removing bias from the prompts
+C: By optimizing the language model for identifying and addressing bias in data
+D: By ignoring the presence of bias in the data
+
+Correct Answer C
+
+Question 5: Which of the following explanations correctly describes the term "playground" in the context of OpenAI? 
+
+A: A physical area for OpenAI researchers to collaborate
+B: A web-based interface for interacting with OpenAI models
+C: A platform for hosting AI competitions and challenges
+D: A virtual environment for training AI agents
+
+Correct Answer B
+
+Question 6: Select all the options that are applicable to "transfer learning" in the context of pretrained models? 
+
+A: Transfer the weights that a network has learned at “task A” to a new “task B.”
+B: The utilization of knowledge learned in one task to improve generalization in another related task
+C: It is process of using the knowledge a model has learned from a task with a lot of available labeled training data in a new task that doesn't have much data.
+D: The ability to transfer model knowledge to a different programming language
+
+Correct Answer A, B, C
+
+Question 7: When using GPT-3 for aQuestion such as “What is the color of sky?”, what kind of learning can be used. 
+
+A: One shot learning
+B: Zero shot learning
+C: Few shot learning
+D: None of the above
+
+Correct Answer B
+
+Question 8: Which among the following are the key patterns for horizon -2 systems. 
+
+A: AI Governance
+B: Entity extraction
+C: Speech insights
+D: Classification
+
+Correct Answer B, C
+
+Question 9: State True or False: In OpenAI GPT framework, prompts should be minimum 64 characters long. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 10: Choose all the valid attributes of AI-First experience? 
+
+A: Contextual computing
+B: Seamless natural interaction with systems
+C: Computing that cannot learn and adapt
+D: Multi-device computing
+
+Correct Answer A, B, D
+
+Question 11: What is the main building block of the Transformer model used in GPT-3? 
+
+A: Recurrent Neural Network (RNN)
+B: Convolutional Neural Network (CNN)
+C: Long Short-Term Memory (LSTM)
+D: Self-Attention Mechanism
+
+Correct Answer D
+
+Question 12: Which of the following is the most important consideration in AI-First Software Engineering? 
+
+A: Maximizing model accuracy
+B: Ethical implementation
+C: Minimizing human intervention
+D: Optimization
+
+Correct Answer B
+
+Question 13: What is the purpose of using multiple attention heads in GPT-3? 
+
+A: To reduce the computational complexity of the attention mechanism
+B: To improve the model's ability to capture different types of dependencies
+C: To increase the number of parameters in the model
+D: To reduce processing time for the input sequence
+
+Correct Answer B
+
+Question 14: When expecting a well-defined answer from the GPT-3 model, which of the following value can set for the temperature parameter to influence the randomness of the generated output? 
+
+A: 0.2
+B: 0.5
+C: 0.8
+D: 1.0
+
+Correct Answer A
+
+Question 15: Select the advantages of using pretrained models in natural language processing (NLP): (Select all that apply) 
+
+A: Reduced training time
+B: Improved model performance on downstream tasks
+C: Easy interpretability of model predictions
+D: Generalization to new tasks with minimal training data
+
+Correct Answer A, B, D
+
+Question 16: True/False: AI-First Software Engineering eliminates the need for human involvement in software development. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 17: Which mathematical function is commonly used for positional encoding in GPT-3? 
+
+A: Sigmoid function
+B: Linear function
+C: Trigonometric functions (e.g., sine and cosine) 
+D: Exponential function
+
+Correct Answer C
+
+Question 18: Identify which Prompt category below example belongs to? Red : Apple, Blood Blue : Sky, Blueberries Green: Leaves, Grass Yellow: 
+
+A: Zero shot learning
+B: One shot learning
+C: Few shot learning
+D: Two shot learning
+
+Correct Answer C
+
+Question 19: Which among the following is not a capability of GPT-3? 
+
+A: Translation of text from a language to another
+B: Analysing text sentiment
+C: Performing calculations
+D: Responding to multiple problems at a time
+
+Correct Answer D
+
+Question 20: During which of the following SDLC phases Generative AI capabilities can be utilized. 
+
+A: Requirement Elicitation
+B: Design
+C: Coding
+D: Option D
+
+Correct Answer A, B, C
+
+Question 21: Which of the following statements about Large Language Models (LLMs) and their capabilities in software engineering is true? 
+
+A: LLMs can only generate code but cannot perform other tasks like code refactoring or translation between programming languages.
+B: LLMs are limited to providing inputs based on their own learnings and cannot benefit from other similar works.
+C: LLMs are an ideal tool for adopting an AI-First Software Engineering approach as they can perform a wide range of tasks, including code generation, refactoring, error correction, code styling, documentation generation, and translation between programming languages.
+D: LLMs are the only type of AI models that can be used in the Software Development Life Cycle (SDLC).
+
+Correct Answer C
+
+Question 22: How could AI help optimize software performance during the SDLC? 
+
+A: By automatically generating test data
+B: By identifying and resolving performance bottlenecks
+C: By conducting usability testing
+D: By facilitating code collaboration
+
+Correct Answer B
+
+Question 23: State True or False: In the AI-First approach, Product designs do not become more user-centric. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 24: What type of datasets are often involved when working with AI-First Software Engineering approach? 
+
+A: Structured
+B: Small and Fixed
+C: Unstructured
+D: Noisy
+
+Correct Answer C, D
+
+Question 25: Which among the following is not a SDLC phase 
+
+A: Define requirements
+B: Design and coding
+C: Feedback collection 
+
+[Image of Software Development Life Cycle phases]
+
+D: Deployment
+
+Correct Answer C
+
+Question 26: Which of the following is an example of prompt engineering toolkit or library? 
+
+A: TensorFlow
+B: PyTorch
+C: Scikit-learn
+D: GPT-3 Playground
+
+Correct Answer D
+
+Question 27: Which OpenAI model can be used for Requirement Elaboration 
+
+A: code-davinci-002
+B: text-davinci-003
+C: code-cushman-001
+D: DALL E -2
+
+Correct Answer B
+
+Question 28: Which of the following statements accurately describes the Seq2Seq model in the context of natural language processing? 
+
+A: The Seq2Seq model is an encoder-decoder architecture where the input is a sequence of words, and the output is a single word
+B: The Seq2Seq model is an encoder-decoder architecture where both the input and output are single words
+C: The Seq2Seq model is an encoder-decoder architecture where the input and output are both sequences of word 
+D: The Seq2Seq model is an architecture used for image classification tasks rather than natural language processing
+
+Correct Answer C
+
+Question 29: Which of the following are areas of application for Generative Models? 
+
+A: Text Generation
+B: Metaverse
+C: Classification
+D: Image Generation
+
+Correct Answer A, B, D
+
+Question 30: What is the main advantage of AI-First Software Engineering? 
+
+A: Faster development process
+B: Reduced software performance
+C: Enhanced user experience
+D: Increased automation capabilities
+
+Correct Answer A, C, D
+
+Question 31: State True or False : The value of the temperature parameter control the uncertainty in the output 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 32: Identify the notable limitation of Recurrent Neural Networks in sequence modelling? 
+
+A: RNNs struggle to capture long-range dependencies in sequential data due to their limited short-term memory
+B: RNNs have a high computational complexity, making them inefficient for processing long sequences of data
+C: RNNs lack the ability to learn complex patterns and dependencies in sequential data
+D: RNNs are not suitable for handling sequential data with varying lengths and irregular patterns
+
+Correct Answer A
+
+Question 33: In the Software Development Life Cycle (SDLC), which phase is primarily concerned with defining the overall system architecture, component design, and user interface layout? 
+
+A: Requirement Analysis
+B: Testing and Validation
+C: Implementation and Coding
+D: Design and Planning
+
+Correct Answer D
+
+Question 34: State True or False: GPT-3 can process all Text , Audio and image inputs. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 35: When using the GPT-3 model, which of the following statements describes the nature of completions generated? 
+
+A: Completions are deterministic and always produce the same output for the same input prompt
+B: Completions are stochastic and can vary across different requests for the same input prompt
+C: Completions are influenced by external factors but exhibit a consistent pattern
+D: Completions are random and unrelated to the input prompt provided
+
+Correct Answer B
+
+Question 36: When does input embedding occur in GPT-3? 
+
+A: During the training phase
+B: After the model generates the output
+C: Before the input is fed into the model
+D: At the final stage of the inference process
+
+Correct Answer C
+
+Question 37: What kind of output can DALL-E2 produce? 
+
+A: Text and code
+B: Image 
+C: Audio
+D: Video
+
+Correct Answer B
+
+Question 38: Select option which does not relate to AI First paradigm 
+
+A: Computers adapting to human needs
+B: Easy interface with applications via voice, text, gesture usage
+C: Multi-device computing
+D: Programming on mainframe computers
+
+Correct Answer D
+
+Question 39: How can AI contribute to the SDLC user acceptance testing (UAT) phase? 
+
+A: By automatically generating test scripts
+B: By conducting load testing
+C: By analyzing user behavior and preferences
+D: By creating system documentation
+
+Correct Answer A
+
+Question 40: Select all the benefits of using AI-first strategies by an Organization 
+
+A: Operational efficiency
+B: Error reduction
+C: Faster decisions
+D: Process deceleration
+
+Correct Answer A, B, C
+
+Question 41: What is the primary advantage of using pretrained models in natural language processing (NLP)? 
+
+A: Reduced computational resources required for training
+B: Improved model performance on downstream tasks
+C: Enhanced model interpretability
+D: Increased training data availability
+
+Correct Answer B
+
+Question 42: Which of the following best illustrates how AI may help with the design phase of the SDLC? 
+
+A: Automatically generating test cases
+B: Conducting user acceptance testing
+C: Predicting software defects
+D: Collaborative code editing
+
+Correct Answer D
+
+Question 43: Which kind of language models are typically used for prompt engineering? 
+
+A: Pre-trained language models
+B: Rule-based language models
+C: Reinforcement learning-based language models
+D: Both b and c
+
+Correct Answer A
+
+Question 44: Why are language models generally considered more complex compared to other machine learning models? 
+
+A: Language models require a larger amount of training data compared to other models
+B: Languages are inherently complex in nature, with various grammar rules, syntax, and semantics
+C: Language models involve more sophisticated algorithms and techniques for processing and understanding textual data
+D: Language models require more computational resources and longer training times compared to other models
+
+Correct Answer B
+
+Question 45: State True or False: Programming knowledge is required to interact with GPT-3 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 46: State TRUE or FALSE: ChatGPT-3 model is a language model based on the transformer architecture 
+
+A: true 
+B: false
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 47: Prompt engineering can help in addressing the issue of 
+
+A: Sample quality
+B: Data Scarcity
+C: Overfitting
+D: Adversarial attacks
+
+Correct Answer B
+
+Question 48: State True or False: AI-First Software Engineering can be applied to various domains, including healthcare, finance, and transportation. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 49: Which parameter helps in modifing the likelihood of a specific token in the completion text generated by GPT - 3 API ? 
+
+A: logit_bias
+B: top_p
+C: max_toxens
+D: None of the above
+
+Correct Answer A
+
+Question 50: State True or False: Naive Bayes technique is nonparametric and assume all features to be dependent. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 51: How many layers are there in GPT - 3 model? 
+
+A: 96 layers
+B: 95 layers
+C: 99 layers
+D: 94 layers
+
+Correct Answer A
+
+Question 52: State True or False: Large Language Models can accurately predict future events and outcomes based on the given prompt 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 53: In OpenAI GPT framework for getting more deterministic response, identify the value for temperature parameter 
+
+A: zero
+B: one
+C: random value
+D: temperature parameter doesnot affect response
+
+Correct Answer A
+
+Question 54: How can AI contribute to the requirement-gathering phase of the SDLC 
+
+A: By automatically generating user stories and use cases
+B: By conducting user interviews and surveys
+C: By creating visual prototypes
+D: By performing code reviews and analysis
+
+Correct Answer A
+
+Question 55: 4 different users input a prompt as follows to GPT-3 : "Print any integer greater than 100" Identify the correct option for the resultant output 
+
+A: Every user will get the same output
+B: Every user MAY get a different output
+C: Multiple users cannot ask the same query simultaneously to GPT-3 model
+D: GPT-3 cannot print an output for such a query
+
+Correct Answer B
+
+Question 56: Which generative model is known for its ability to generate realistic images ? 
+
+A: OpenAI's DALL·E 2
+B: Restricted Boltzmann Machine (RBM)
+C: Autoencoder
+D: Deep Belief Network (DBN)
+
+Correct Answer A
+
+Question 57: In an 'AI-First’ company , which of the following tasks can be automated? A. Data Collection B. Analyzing Data C. Decision making 
+
+A: A,B
+B: B,C
+C: A,C
+D: A,B,C
+
+Correct Answer D
+
+Question 58: What can be the main objective of generative models ? 
+
+A: minimize the prediction error on a given dataset.
+B: maximize the separation between different classes in the data.
+C: generate new data that resembles the original training data.
+D: generate clusters from training data.
+
+Correct Answer C
+
+Question 59: Which of the following additional tactics can be used to make the prompting more effective? 
+
+A: Use delimiters
+B: Ask for structured output
+C: Specify the intended tone of the text
+D: Set model's temperature parameter
+
+Correct Answer A, B, C, D
+
+Question 60: Identify the primary principle that 'AI First' companies should keep in mind while designing their products. 
+
+A: Product should be Feasible
+B: Product should be Affordable for masses
+C: Product should be User Centric
+D: Product should be adaptive
+
+Correct Answer C
+
+Question 61: Which of the following best describes Intent in prompt engineering? 
+
+A: It refers to the overall objective or goal of the conversation
+B: It is a technique used to confuse the model
+C: It is a method to make the model more talkative
+D: It is a method to make the model more listenable
+
+Correct Answer A
+
+Question 62: Capacity of a model is determined by number of parameters on which it is trained 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 63: From the below given options, select the applications of GPT-3 model. 
+
+A: Generating next-word predictions
+B: Machine translation
+C: Text summarization
+D: All of the above
+
+Correct Answer D
+
+Question 64: State TRUE or FALSE: Pretrained models can suffer from bias present in the data they were trained on. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 65: What is the benefit of using input embedding in GPT-3? 
+
+A: It reduces the dimensionality of the input data
+B: It allows the model to understand the semantic meaning of words
+C: It enables the model to handle only numerical inputs
+D: It speeds up the training process by skipping the embedding step
+
+Correct Answer B
+
+Question 66: The input that user gives to GPT-3 model is termed as 
+
+A: Completion
+B: Intent
+C: Prompt
+D: Playground
+
+Correct Answer C
+
+Question 67: Suppose there are two techniques A and B. Technique A is used to convert any surface from a word to its generic or root form. For example 'students' and 'studies' will be changed to 'student' and 'study' respectively. Technique B is use dto slice a word from some position such that it makes a meaningful word in the basis of how it looks, for eaxmple the word 'caring' and 'studies' will be changed to 'car' and 'studi' respectively. Which of the following pair of techniques are appropriate fro technique A and B 
+
+A: Word toxenization and Stemming
+B: Lemmatization and Stemming
+C: Dependency parsing and POS tagging
+D: None of the above
+
+Correct Answer B
+
+Question 68: Generative Model use \_\_\_\_\_ Probabilities ? 
+
+A: Marginal
+B: Conditional
+C: Axiomatic
+D: Joint
+
+Correct Answer D
+
+Question 69: How can AI-based anomaly detection techniques be used in software engineering to increase system security? 
+
+A: By automatically fixing all security vulnerabilities in the code
+B: By conducting real-time monitoring and alerting for suspicious activities
+C: By encrypting all data transmissions within the software
+D: By implementing strict access control policies for user authentication
+
+Correct Answer B
+
+Question 70: GPT 3/4 models are restricted to answering on only few domains? 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 71: What is the role of transfer learning in prompt engineering? 
+
+A: To fine-tune a pre-trained language model for specific tasks
+B: To generate task-specific prompts for pre-trained language models
+C: To train a language model from scratch
+D: To provide feedback and optimize prompts generated by language models
+
+Correct Answer B
+
+Question 72: State True or False: Intent in prompt engineering is only applicable to natural language processing (NLP) related tasks 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 73: State True or False: The OpenAI GPT framework can be used only for Python projects in the development phase. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 74: State True or False: Prompt Engineering requires domain expertise in the specific task at hand. 
+
+A: false
+B: true
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 75: To obtain a more deterministic output the value of Temperature and Top\_P should be 
+
+A: Lower value of Temperature and Higher value of Top\_P
+B: Higher value of Temperature and Higher value of Top\_P
+C: Higher value of Temperature and Lower value of Top\_P
+D: Lower value of Temperature and Lower value of Top\_P
+
+Correct Answer D
+
+Question 76: What is the most important consideration when generating prompts for language models? 
+
+A: Length of prompt
+B: Clarity of the Prompt
+C: Complexity of the Prompt
+D: Font size of the prompt
+
+Correct Answer B
+
+Question 77: Which of the following statements are true about GPT - 3 
+
+A: Full form of GPT is Generative Pre-processed Transformer
+B: GPT - 3 is the first ever generalized language model
+C: It's OpenAI's third iterartion of model
+D: All of the above
+
+Correct Answer B, C
+
+Question 78: What is the primary characteristic of word embeddings in relation to their vector representation in a sentence? (select all the options that apply) 
+
+A: Word embeddings are a numerical vector representation of a word in a lower dimensional space
+B: Word embeddings are generated to have maximum distance between similar words in the vector space
+C: Word embeddings are generated to have minimum distance between similar words in the vector space 
+D: Word embeddings have fixed lengths regardless of the words in the sentence
+
+Correct Answer A, C
+
+Question 79: A computer vision model is pre-trained on a large dataset for image classification. The pre-trained model learns to recognize various objects and extract meaningful features from images. Now, a research team wants to develop a new model for detecting rare species of birds in wildlife photographs. How can transfer learning be utilized in this scenario to improve the performance of the new model? Choose the most appropriate answer. 
+
+A: The pre-trained model can be used as a feature extractor, where the learned features are extracted from the intermediate layers of the model and fed into a new model specifically trained for rare bird detection
+B: The pre-trained model can be fine-tuned by continuing the training process using the new dataset of wildlife photographs, which includes images of rare bird species
+C: The pre-trained model can be directly used as it is,without any modification since it has already learned to recognize various objects and extract meaningful features
+D: Transfer learning cannot be applied in this scenario as the pre-trained model is only trained for general image classification tasks and cannot be adapted for detecting specific bird species
+
+Correct Answer A
+
+Question 80: Which phase of AI-First Software Engineering involves training and fine-tuning AI models? 
+
+A: Requirements gathering
+B: Design and architecture
+C: Implementation and coding
+D: Testing and quality assurance
+
+Correct Answer D
+
+Question 81: Which of the following is not an example of Sensory AI ? 
+
+A: Voice input to search application
+B: Gesture input to Playstation
+C: Multi-device application
+D: Scanning receipts to detect amount automatically
+
+Correct Answer D
+
+Question 82: From what value should the 'Temperature' parameter be modified, in order to increase possibility of consistent (same) output from the GPT-3 model? 
+
+A: 0.0
+B: 1.0
+C: 10.0
+D: 5.0
+
+Correct Answer A
+
+Question 83: In OpenAI GPT framework, TopP refers to 
+
+A: the probability of the token that should be chosen by the language model
+B: the cumulative probability of tokens that can be chosen by the language model
+C: the probability that the generated response is accurate
+D: the proportion of data in the prompt to the data in the response
+
+Correct Answer B
+
+Question 84: Limitations of OpenAI GPT - 3 are 
+
+A: Limited input size
+B: Slow inference time
+C: Lack of interpretability
+D: All of the above
+
+Correct Answer D
+
+Question 85: State True or False: Prompt Engineering is only applicable to text-based AI models. 
+
+A: false
+B: true
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 86: When designing a prompt for the GPT-3 model, which of the following strategies is recommended to obtain desired results? 
+
+A: Use specific instructions and clearly define the desired output format
+B: Keep the prompt short and concise to avoid overwhelming the model
+C: Include multiple variations of the sameQuestion to increase the chances of a correct response
+D: Provide irrelevant information and context to help the model generate creative responses
+
+Correct Answer A
+
+Question 87: What should you do to make GPT-3 model provide a completion in specifically formatted text form? 
+
+A: You must depend on zero shot learning
+B: You must give details of the context
+C: You must give suitable examples
+D: Specific format outputs are not possible
+
+Correct Answer C
+
+Question 88: What is the range of Top\_P Parameter ? 
+
+A: [0,infinity]
+B: [0,1]
+C: [infinity,0]
+D: [-infinity,infinity]
+
+Correct Answer B
+
+Question 89: What is a pretrained model? 
+
+A: A model that is trained by users based on real-time conversations.
+B: A model that is trained on a large dataset .
+C: A model that is trained on images only for computer vision tasks.
+D: A model that is trained on a specific domain for specialized applications.
+
+Correct Answer B
+
+Question 90: How can prompt engineering be applied to the creation of content? 
+
+A: Writing articles or blog posts automatically
+B: To generate ideas for articles or blog posts
+C: Enhancing web applications performance
+D: None of the above
+
+Correct Answer B
+
+Question 91: What is the primary benefit of applying AI to software engineering? 
+
+A: Improved security measures
+B: Faster bug fixes
+C: Reduced development costs
+D: Enhanced user interface
+
+Correct Answer C
+
+Question 92: What is the difference between a "prefix" and a "prompt" in prompt engineering? 
+
+A: They are two names for the same thing; there is no distinction.
+B: Prefixes are fixed word groups that always appear at the start of the prompts, whereas prompts can change.
+C: A prompt is a constant group of words that always appear at the start of the prefix, While a prefix can change
+D: None of the above
+
+Correct Answer B
+
+Question 93: What is the difference between supervised and unsupervised prompt engineering? 
+
+A: Unsupervised prompt engineering employs unlabeled data, whereas supervised prompt engineering uses labeled data to generate prompts.
+B: Unsupervised prompt engineering creates prompts based on the structure of the input data, whereas supervised prompt engineering creates prompts for pre-specified tasks.
+C: Unsupervised prompt engineering involves developing the language model from scratch, whereas supervised prompt engineering makes use of language models that have already been taught.
+D: None of the above
+
+Correct Answer B
+
+Question 94: Which of the following approaches can be employed to address the limitation of word embeddings in GPT-3 concerning context information? 
+
+A: Incorporating attention mechanisms,to enable the model to attend to relevant context
+B: Increasing the dimensionality of word embeddings to include more contextual information
+C: Utilizing recurrent neural networks instead of transformers for improved sequential modeling
+D: Applying dimensionality reduction techniques to compress word embeddings while preserving contextual information
+
+Correct Answer A
+
+Question 95: State True or False: In an AI-First company, the process of collecting data, analyzing data and data-driven decision-making by taking quantitative feedback from processes are automated. 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer A
+
+Question 96: State True or False: ChatGPT can be asked to print daily news headlines 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 97: State True or False. Single device computing is an example of AI-first 
+
+A: true
+B: false
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 98: Which of the following is an example of a generative model? 
+
+A: Support Vector Machines (SVM)
+B: Random Forest
+C: Gaussian Mixture Model
+D: K-means clustering
+
+Correct Answer C
+
+Question 99: Which of the following are key components of a transformer model architecture? (Select all that apply) 
+
+A: Self-attention mechanism
+B: Recurrent layers
+C: Positional encoding
+D: Convolutional layers
+
+Correct Answer A, C
+
+Question 100: Among the different engines provided by OpenAI, which one is more advanced and capable? 
+
+A: Ada
+B: Babbage
+C: Curie
+D: Davinci
+
+Correct Answer D
+
+Question 101: Prompt : "What are the different phases of Software Development Life Cycle?" Identify which category this example belongs to? 
+
+A: One shot learning
+B: Some shot learning
+C: Few shot learning
+D: Zero shot learning
+
+Correct Answer D
+
+Question 102: What is Prompt Engineering? 
+
+A: The process of creating prompts for language models.
+B: The process of instructing language models through training.
+C: The process of fine-tuning pre-trained language models
+D: The procedure of enhancing the performance of web applications.
+
+Correct Answer A
+
+Question 103: Which of the following is a common application of generative models? 
+
+A: Speech recognition
+B: Sentiment analysis
+C: Stock price prediction
+D: Image classification
+
+Correct Answer A
+
+Question 104: UML diagrams are covered in which of the following design phases. 
+
+A: High level design
+B: Low level design
+C: Option C
+D: Option D
+
+Correct Answer B
+
+Question 105: In which SDLC phase can AI aspects such as natural language processing be used for automated documentation generation? 
+
+A: Requirement gathering
+B: Design and architecture
+C: Development and coding
+D: Testing and quality assurance
+
+Correct Answer A
+
+Question 106: Identify name of the process in which AI systems that can take inputs via text, voice, images, gestures, etc. 
+
+A: IOT based AI
+B: Contextual AI
+C: Distributed Computing
+D: Sensory AI
+
+Correct Answer D
+
+Question 107: What does the “embedding” part of “input embedding” involve? 
+
+A: Tokenization of the input text
+B: Parsing of the input text
+C: Mapping of the input text to a numerical vector
+D: Representation of the input text as a graph
+
+Correct Answer C
+
+Question 108: Which prompting technique lets the model generate intermediate reasoning steps before giving the final answer? 
+
+A: Zero shot prompting
+B: Generated Knowledge prompting
+C: Chain-of-Thoughts prompting
+D: Few shot prompting
+
+Correct Answer C
+
+Question 109: Which of the following is NOT a common consideration in prompt engineering? 
+
+A: Length of the prompt
+B: Language used in the prompt
+C: Font size of the prompt
+D: Content of the prompt
+
+Correct Answer C
+
+Question 110: Which of the following is a considerable challenge in AI-First Software Engineering? 
+
+A: Incompatiblity among AI and traditional methods
+B: Lack of computing resources
+C: Limited tools and frameworks
+D: Interpretation of decisions taken by AI systems
+
+Correct Answer D
+
+Question 111: When making an API request to the GPT-3 model, considering that the maximum number of tokens that can be generated is 2048, how should this parameter be set appropriately? 
+
+A: The parameter should be set to 1024 for the text prompt and 1024 for the completion
+B: The parameter should be set to 2048 for the text prompt and 0 for the completion
+C: The parameter should be set to 0 for the text prompt and 2048 for the completion
+D: The parameter should be set to an appropriate value that ensures the combined length of the text prompt and completion does not exceed 2048 tokens
+
+Correct Answer D
